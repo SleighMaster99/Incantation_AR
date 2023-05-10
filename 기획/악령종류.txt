@@ -1,0 +1,7 @@
+악령 종류
+
+BasicGhost(수비)
+
+MiddleGhost(두억시니)
+
+BossGhost(마왕)

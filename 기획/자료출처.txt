@@ -1,0 +1,80 @@
+ghost 3d model
+https://www.cgtrader.com/free-3d-print-models/games-toys/toys/standing-ghost
+
+blackghost 3d model
+https://www.cgtrader.com/free-3d-models/character/clothing/3-black-hooded-capes
+
+RandomSphere
+https://answers.unity.com/questions/1324115/random-insideunitsphere-but-outsideunitsphere.html
+
+CamerLight
+https://www.youtube.com/watch?v=miqbxsRSrTc
+using Vuforia;
+VuforiaBehaviour.Instance.CameraDevice.SetFlash(bool);
+
+호국체
+https://blog.naver.com/mnd9090/221023344796
+
+한지이미지
+https://www.google.com/search?q=%ED%95%9C%EC%A7%80+%EB%AC%B4%EB%A3%8C+%EC%9D%B4%EB%AF%B8%EC%A7%80&tbm=isch&ved=2ahUKEwiAnbXWiZL7AhUEAN4KHeYoDVEQ2-cCegQIABAA&oq=%ED%95%9C%EC%A7%80+%EB%AC%B4%EB%A3%8C+%EC%9D%B4%EB%AF%B8%EC%A7%80&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BAgjECc6BwgAEIAEEBM6CAgAEAgQHhATOggIABCABBCxAzoICAAQsQMQgwE6CwgAEIAEELEDEIMBOgcIABCABBAYOgYIABAIEB5Q0glYnRtgvhxoBHAAeAKAAXOIAYUOkgEEMTEuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=fLxjY4DvCISA-Abm0bSIBQ&bih=1291&biw=1278#imgrc=QWvPy5iltfSi8M
+
+퀘스트 데이터
+https://www.youtube.com/watch?v=qJjfYvEYKiE&t=277s
+
+퀘스트 도사 3d 모델
+https://open3dmodel.com/3d-models/3d-model-chinese-taoist-priest-character_132541.html
+
+음양 이미지
+https://thewiki.kr/w/%EC%9D%8C%EC%96%91
+
+장승 3d model
+https://3dwarehouse.sketchup.com/model/e000047e62ae8ee6b44a51f4682c6776/%EC%9E%A5%EC%8A%B9jangseung-Korean-traditional-totem-pole-at-the-village-entrance?hl=ko&login=true
+
+두억시니
+https://assetstore.unity.com/packages/3d/characters/creatures/golemmonster-33260
+
+마왕
+https://open3dmodel.com/3d-models/3d-model-prime-evil-diablo-character_131416.html
+
+원 둘레
+https://malbongcode.tistory.com/24
+
+마패
+https://www.culture.go.kr/tradition/patternView.do?did=23782&gubun=
+
+3마패
+https://www.culture.go.kr/tradition/patternView.do?did=22251
+
+한옥
+https://3dwarehouse.sketchup.com/model/1471384f-2700-4b06-9263-2771a7c60e25/Korean-small-traditional-houses-Hanok-%ED%95%9C%EC%98%A5
+
+Item icon
+https://assetstore.unity.com/packages/2d/gui/icons/fantasy-rpg-icon-set-free-43810
+
+fire sound effect
+https://pixabay.com/ko/sound-effects/search/fire/
+
+traditional brush
+https://www.cgtrader.com/free-3d-print-models/miniatures/memorabilia/free-brush-trophy
+
+naruto scroll
+https://sketchfab.com/3d-models/scrolls-from-naruto-4cf520f38b4e444085b9f564a29e513d
+
+dragon
+https://sketchfab.com/3d-models/shenron-dragon-ball-96e8ad1e206941ce859c5733bec75d30#download
+
+bird
+https://assetstore.unity.com/packages/3d/characters/animals/birds/egypt-pack-eagle-140079#content
+
+outlinshader
+https://mingyu0403.tistory.com/144
+
+궁중악사
+https://metrolagu.site/link/xzsRBKZh1No
+
+매 울음소리
+https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13220785&menuNo=200020
+
+ppt image
+https://www.pngwing.com/ko/free-png-bouae/download
+https://www.pngwing.com/ko/free-png-zjkjx/download

@@ -1,0 +1,27 @@
+PlayerPrefs
+
+// 플레이어가 수주한 현재 임무
+0 int Index
+1 string Level
+2 string Title
+3 string Content
+4 string Reward
+5 string Ghost
+6 string GhostCnt
+7 int ExorcismCnt
+
+// 플레이어가 가지고 있는 아이템 개수
+0 int QuestRenewal
+1 int RebornBall
+2 int MentalPotion
+
+// 플레이어 기본 정보
+0 string PlayerClass
+1 string PlayerCharmLevel
+2 string PlayerBrushLevel
+3 int PlayerCoin
+4 float playerMaxMentality
+5 float PlayerMentality
+6 int CompleteCharmQuest
+7 int CompleteBrushQuest
+8 float MagicPower(도력)
